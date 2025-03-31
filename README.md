@@ -9,4 +9,4 @@ the variabe name as a topic name. NodeB grabs the info from the topic.
 
 Do not run the nodes individually this will not work, just run the scripts.
 
-Launch script run_node_a.sh first, lauch run_node_a.sh next.
+Launch script run_node_a.sh first, lauch run_node_b.sh next.
